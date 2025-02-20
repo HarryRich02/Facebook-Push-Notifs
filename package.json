@@ -1,0 +1,27 @@
+{
+  "name": "facebook-push-notifs",
+  "version": "1.0.0",
+  "description": "A simple script to send Facebook Group notifications to Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryRich02/Facebook-Push-Notifs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryRich02/Facebook-Push-Notifs/issues"
+  },
+  "homepage": "https://github.com/HarryRich02/Facebook-Push-Notifs#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "puppeteer": "^24.2.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
